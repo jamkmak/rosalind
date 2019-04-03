@@ -1,2 +1,2 @@
 # rosalind
-My solutions to the Rosalind bioinformatics programming challenges.
+[My](http://rosalind.info/users/jamkmak/) solutions to the [Rosalind](http://rosalind.info/problems/list-view/) bioinformatics programming challenges using Python.
