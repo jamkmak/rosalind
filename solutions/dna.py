@@ -12,7 +12,6 @@ Return: Four integers (separated by spaces) counting the respective number of ti
 # Counting DNA Nucleotides (DNA)
 def DNA(string):
     s = string.upper()
-    for n in s:
         A = s.count('A')
         C = s.count('C')
         G = s.count('G')
@@ -21,4 +20,3 @@ def DNA(string):
     return output
 # Returns a string of the number of ACGT nucleotides 
 # counted, separated by spaces.
-        
